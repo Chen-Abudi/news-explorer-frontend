@@ -9,16 +9,22 @@ const About = () => {
         <div className="about__content-overlay">
           <h2 className="about__title">About the author</h2>
           <p className="about__description">
-            Grace (Chen) Abudi is an artist and a recent full-stack developer.
-            She has experience developing both frontend and backend along
-            dealing with server database including the technologies M.E.R.N
-            stack, JavaScript, HTML, CSS.
+            My name is Grace Chen Abudi and I'm a Software Engineer with the
+            Aloha spirit, blending logic, creativity, and cutting-edge
+            technology to shape the digital realm. With hands-on experience in
+            both frontend and backend development, I'm skilled in modern
+            frameworks and tools including React, Next.js, Node.js, Java, Spring
+            Boot, TypeScript, TailwindCSS, and database systems such as MongoDB,
+            MySQL, and PostgreSQL..
           </p>
           <p className="about__description">
-            The soon to be alumni of Practicum Software Engineer program, has a
-            competence for creating elegant solutions efficiently with the
-            ability of solving problems with logic, art, and technology. Feel
-            Free to reach out through Social Media down below ➘
+            Full-Stack Development Certified by TripleTen. Recognized as an
+            Outstanding Graduate by Masterschool, I'm passionate about building
+            meaningful, user-focused solutions - from full-stack applications to
+            AI-powered platforms. Guided by the belief in "Coding with Grace,
+            Delivering with Aloha", I aims to create digital products that not
+            only solve problems but also inspire. Feel free to connect with me
+            through the social links below. ➘
           </p>
         </div>
       </div>

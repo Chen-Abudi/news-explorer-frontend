@@ -1,4 +1,4 @@
-import React, { useEffect } from "react";
+import { useEffect } from "react";
 import PopupWithForm from "../PopupWithForm/PopupWithForm";
 import useFormValidation from "../../hooks/useFormValidation";
 
@@ -12,7 +12,7 @@ const SignIn = ({
   const { values, handleChange, errors, isValid, handleFormReset } =
     useFormValidation();
 
-  // When form is open, resets it
+  // When form is open, reset it
   useEffect(() => {
     handleFormReset();
   }, [isOpen, handleFormReset]);

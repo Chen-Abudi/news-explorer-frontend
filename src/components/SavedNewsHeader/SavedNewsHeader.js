@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import { useEffect, useState } from "react";
 import "./SavedNewsHeader.css";
 
 const SavedNewsHeader = ({ currentUser, savedArticles }) => {

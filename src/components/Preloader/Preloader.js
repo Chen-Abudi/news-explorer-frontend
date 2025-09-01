@@ -1,4 +1,3 @@
-import React from "react";
 import "./Preloader.css";
 import CirclePreLoader from "../../images/preloader.png";
 
