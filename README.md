@@ -2,7 +2,7 @@
 
 # News Explorer Service App 📰🌐🗺️
 
-## **Developed By Chen Abudi** 👩‍💻‍
+## **Developed By Chen Abudi** 👩🏽‍💻
 
 ## 📢 Overview
 
@@ -31,34 +31,47 @@ This is the Frontend of a News Explorer Service App, where users can search for 
 - `Vercel Serverless technology`
 - Git/GitHub
 
-| NPM Packages (Backend)               |                                                                                                                                                                                                       Aspects of Use |
-| :----------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| bcryptjs                             |                                                                                                                                                                                                  Password Encryption |
-| body-parser                          |                                                                                                                              Returns middlewares that handle incoming requests before they reach a target controller |
-| celebrate                            |                                                                                                                                            It's an express middleware function that wraps the joi validation library |
-| cors (Cross-Origin Resource Sharing) | It is a mechanism to allow or restrict requested resources on a web server depend on where the HTTP request was initiated. This policy is used to secure a certain web server from access by other website or domain |
-| dotenv                               |                                                                                                                              automatically loads environment variables from a .env file into the process .env object |
-| express-winston                      |                                                                                                                                    Provides middlewares for request and error logging of your express.js application |
-| winston                              |                                                                                                                                                       Universal logging library with support for multiple transports |
-| validator                            |                                                                                                                                                                        A library of string validators and sanitizers |
-| jsonwebtoken                         |                                                                                                                                   An open standard for securely transferring data within parties using a JSON object |
-| express-rate-limit                   |                                                                                                                                Use to limit repeated requests to public APIs and/or endpoints such as password reset |
-| helmet                               |                                                                                                                                                   Helps you secure your Express apps by setting various HTTP headers |
+| NPM Packages (Backend)               |                                                                          Aspects of Use |
+| :----------------------------------- | --------------------------------------------------------------------------------------: |
+| bcryptjs                             |                                                                     Password Encryption |
+| body-parser                          | Returns middlewares that handle incoming requests before they reach a target controller |
+| celebrate                            |                                Express middleware that wraps the Joi validation library |
+| cors (Cross-Origin Resource Sharing) |                                             Secure cross-origin requests to your server |
+| dotenv                               |                                          Loads environment variables from a `.env` file |
+| express-winston                      |                                                Middleware for request and error logging |
+| winston                              |                                      Universal logging library with multiple transports |
+| validator                            |                                                        String validators and sanitizers |
+| jsonwebtoken                         |                              Securely transfers data within parties using a JSON object |
+| express-rate-limit                   |                                        Limit repeated requests to public APIs/endpoints |
+| helmet                               |                                                   Secures Express apps via HTTP headers |
 
 ## 📍 API Endpoints :
 
-| RESTful API Enpoints | HTTP Methods |                  Usage Purpose |
-| -------------------- | :----------: | -----------------------------: |
-| /signup              |     POST     |              User Registration |
-| /signin              |     POST     |                     User Login |
-| /users/me            |     GET      |              GETting user data |
-| /articles            |     GET      | GETting data from all articles |
-| /articles            |     POST     |         Creating a new article |
-| /articles/:\_id      |    DELETE    |    DELETE an article by its id |
+| RESTful API Endpoints | HTTP Methods |                  Usage Purpose |
+| --------------------- | :----------: | -----------------------------: |
+| /signup               |     POST     |              User Registration |
+| /signin               |     POST     |                     User Login |
+| /users/me             |     GET      |              GETting user data |
+| /articles             |     GET      | GETting data from all articles |
+| /articles             |     POST     |         Creating a new article |
+| /articles/:\_id       |    DELETE    |    DELETE an article by its id |
 
 ---
 
 # _👩‍💻👨‍💻 How to Get Started_
+
+## 📝 Prerequisites
+
+> [!IMPORTANT]
+> This project requires **Node.js v22.x** and **npm v9.x** or higher. Please ensure you have the correct versions installed before running or building the app.
+
+> [!TIP]
+> Use `nvm` (Node Version Manager) to easily switch between Node.js versions:
+>
+> ```
+> nvm install 22
+> nvm use 22
+> ```
 
 ### **Clone**
 
@@ -78,19 +91,17 @@ This is the Frontend of a News Explorer Service App, where users can search for 
 
 # ✨ Deployed Application
 
-## _Visit the App_ [&#128073;&#127997; **HERE !**](https://news-explorer-frontend-alpha.vercel.app/)
+## _Visit the App_ [&#128073;&#127997; **HERE!**](https://news-explorer-frontend-alpha.vercel.app/)
 
 ---
 
 ## 💎 Valuable Links :
 
-- ## [Backend API](https://news-explorer-api-mu.vercel.app/)
+- [Backend API](https://news-explorer-api-mu.vercel.app/)
 
-- ## [Backend Repo](https://github.com/Chen-Abudi/news-explorer-api)
+- [Backend Repo](https://github.com/Chen-Abudi/news-explorer-api)
 
 ## **Enjoy ! 🌺👋🏽**
-
----
 
 ## 📸 Project Features :
 
