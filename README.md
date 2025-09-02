@@ -58,7 +58,13 @@ This is the Frontend of a News Explorer Service App, where users can search for 
 
 ---
 
-# _👩‍💻👨‍💻 How to Get Started_
+# ✨ Live App
+
+## _Visit the App_ [&#128073;&#127997; **HERE!**](https://news-explorer-frontend-alpha.vercel.app/)
+
+---
+
+# _👩🏽‍💻👨🏽‍💻 How to Get Started_
 
 ## 📝 Prerequisites
 
@@ -86,12 +92,6 @@ This is the Frontend of a News Explorer Service App, where users can search for 
 ### **Launch**
 
 `$ npm run start`
-
----
-
-# ✨ Deployed Application
-
-## _Visit the App_ [&#128073;&#127997; **HERE!**](https://news-explorer-frontend-alpha.vercel.app/)
 
 ---
 
