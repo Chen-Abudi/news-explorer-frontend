@@ -66,7 +66,7 @@ This is the Frontend of a News Explorer Service App, where users can search for 
 
 # 👩🏽‍💻👨🏽‍💻 How to Get Started
 
-## 📝 Prerequisites
+## Prerequisites:
 
 > [!IMPORTANT]
 > This project requires **Node.js v22.x** and **npm v9.x** or higher. Please ensure you have the correct versions installed before running or building the app.
@@ -157,7 +157,7 @@ This is the Frontend of a News Explorer Service App, where users can search for 
 
 ---
 
-## 🔧 Possible Improvements
+## 🔧 Possible Future Improvements
 
 - [ ] Create a Forgot Password option in case the users forget theirs.
 - [ ] Resets Password
