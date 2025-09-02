@@ -1,4 +1,4 @@
-const API_KEY = "4341d5fd9c044edc9eab4ead350587ab";
+const API_KEY = process.env.NEWS_EXPLORER_API_KEY;
 const PROXY_URL = "https://nomoreparties.co/news/v2/everything";
 const NUMBER_CARDS = 3;
 const NUMBER_ARTICLES = 100;
