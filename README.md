@@ -60,11 +60,11 @@ This is the Frontend of a News Explorer Service App, where users can search for 
 
 # ✨ Live App
 
-## _Visit the App_ [&#128073;&#127997; **HERE!**](https://news-explorer-frontend-alpha.vercel.app/)
+**_Visit the App_** [&#128073;&#127997; **HERE!**](https://news-explorer-frontend-alpha.vercel.app/)
 
 ---
 
-# _👩🏽‍💻👨🏽‍💻 How to Get Started_
+# 👩🏽‍💻👨🏽‍💻 How to Get Started
 
 ## 📝 Prerequisites
 
